@@ -12,6 +12,9 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 
 ### Eğitim Seti (Yazılı)
 * [İstihza Python 3 için Türkçe Kaynak](https://belgeler.yazbel.com/python-istihza/) (Fırat özgül)
+* [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
+* [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html) (Prof. Dr. Bedri Doğan Emir)
+* [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
 
 
 ### Eğitim Seti (Video)
