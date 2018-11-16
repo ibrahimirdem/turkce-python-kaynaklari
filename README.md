@@ -7,8 +7,14 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * **[Eğitim Seti (Video)](#eğitim-seti-video)**  
 * **[Bloglar](#bloglar)**
 * **[Siteler](#siteler)**
-* **[Kitaplar](#kitaplar)**  
-
+* **[Kitaplar](#kitaplar)**
+* **[Modül ve Framework](#modül-ve-framework)**
+  * [Django](#django)
+  * [Flask](#flask)
+  * [PyQt](#pyqt)
+  * [Diğerleri](#diğer)
+* **[Faydalı Yazılar](#faydalı-yazılar)**
+  
 - - -
 
 ### Eğitim Seti (Yazılı)
@@ -18,7 +24,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
 
 
-### Eğitim Seti (Video)
+## Eğitim Seti (Video)
 * :star: [Yazılım Bilimi Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) (Mustafa Murat Coşkun)
 * [Bilgisayar Bilimi Python Programlama](https://www.youtube.com/playlist?list=PLv5gvG08kLQekD20hqte2ptaV-O_QKybV) (Sinan Urun)
 * [Python 3 Dersleri 2018](https://www.youtube.com/playlist?list=PLmvShhBbNYrTkzcj-darhclgS15EeVQXX) (Yazılım Videoları)
@@ -32,7 +38,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
 
 
-### Bloglar
+## Bloglar
 * [ysar.net](http://ysar.net) (Yaşar Arabacı)
 * [sinanerdinc.com](https://www.sinanerdinc.com/) (Sinan Erdinç)
 * [medium.com/@sddkal](https://medium.com/@sddkal) (Sıddık Açıl)
@@ -46,7 +52,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
 
 
-### Siteler
+## Siteler
 * :star: [python.tc](https://www.python.tc)
 * [pythonkutuphane.org](http://pythonkutuphane.org/)
 * [pyankara.org](http://pyankara.org)
@@ -54,7 +60,50 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * [pythontr.com](https://www.pythontr.com)
 
 
-### Kitaplar
+## Kitaplar
 * [Her Yönüyle Python](https://www.kitapyurdu.com/kitap/her-yonuyle-python-ozel-basim/312293.html&manufacturer_id=21036) (Fırat Özgül)
 * [Yeni Başlayanlar İçin Python](https://www.idefix.com/Kitap/Yeni-Baslayanlar-Icin-Python/Egitim-Basvuru/Bilgisayar/urunno=0000000694609?gclid=CjwKCAiA8rnfBRB3EiwAhrhBGvtC3-OQEYO058lov4qtFRvJ5hyM1XbF80JosZXy4SBKxn1nGtQKoBoC33EQAvD_BwE) (Ahmet Alpat)
 * [Python](https://www.dr.com.tr/Kitap/Python/Egitim-Basvuru/Bilgisayar/urunno=0000000397294) (Mustafa Başer)
+
+## Modül ve Framework
+
+### BeautifulSoup
+* [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari)
+
+### Django
+* :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
+* :star: [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (Django Girls)
+* [Django İçin Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) (Muslu Yüksektepe)
+* [Django Dersleri](https://www.youtube.com/playlist?list=PLCqztCiWHkqH0x6c-1FlnCo0jQ7G8fBp1) (Ozan Teoman Dayanan)
+* [1 Videoda Django](https://www.youtube.com/watch?v=QAVoXJtQ9QM) (Mustafa Murat Coşkun)
+* [Python Django Dersleri](https://www.youtube.com/playlist?list=PLkdAmtKHWw52tPm-pgEZ2hPjW0ZUaPrln) (Python Ankara)
+* [Django](http://www.pythondersleri.com/p/django-egitim-serisi.html) (Python Dersleri)
+* [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
+* [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
+
+### DryScrape
+* [Python DryScrape Modülü ve Javascript](https://www.sinanerdinc.com/python-dryscrape-modulu-ve-javascript) (Sinan Erdinç)
+
+### Flask
+* [Flask Mini Serisi](https://www.youtube.com/playlist?list=PLIHume2cwmHfDUQ2t6f-Q7VCBvNSEAMAS) (Mustafa Murat Coşkun)
+* [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
+* [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
+* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmail Balat)
+
+### PyAutoGUI
+* [PyAutoGui - Python ile Klavye ve Mouse Kontrolü](https://medium.com/@ibrahimirdem/python-ile-klavye-ve-fare-kontrol%C3%BC-pyautogui-6da4eb31b269) (İbrahim İrdem)
+* [Python PyAutoGUI Kullanımı](https://www.sinanerdinc.com/python-pyautogui-modulu-kullanimi) (Sinan Erdinç)
+
+### PyQt
+* [Python PyQt5 Programlama](https://www.youtube.com/playlist?list=PLK6Whnd55IH5rbIrl61H2l-560LddyHO5) (Mert Mekatronik)
+* [PyQt ve PySide Belgelendirme](https://blog.manap.se/pyqt/) (İlker Manap)
+* [Python PyQt ile GUI İşlemleri](https://www.youtube.com/playlist?list=PLcb5ECgpt3MIAZn1eKNXxPrgBWlzwVVII) (Python Ankara)
+* [PyQt](http://www.pythondersleri.com/p/pyqt.html) (Python Dersleri)
+
+### PyTesseract
+* [Tesseract ile Yazı Karakteri Tanıma](https://medium.com/@ibrahimirdem/tesseract-ile-yaz%C4%B1-karakteri-tan%C4%B1ma-python-8ca5e746951) (İbrahim İrdem)
+
+### Requests
+* [Requests Modülü Kullanımı](https://www.youtube.com/watch?v=3yLrXiZEsBg) (Sinan Erdinç)
+
+
