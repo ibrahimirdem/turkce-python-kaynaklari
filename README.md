@@ -9,10 +9,15 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * **[Siteler](#siteler)**
 * **[Kitaplar](#kitaplar)**
 * **[Modül ve Framework](#modül-ve-framework)**
+  * [BeautifulSoup](#beautifulsoup)
   * [Django](#django)
+  * [DryScrape](#dryscrape)
   * [Flask](#flask)
+  * [PyAutoGUI](#pyautogui)
   * [PyQt](#pyqt)
-  * [Diğerleri](#diğer)
+  * [PyTesseract](#pytesseract)
+  * [Requests](#requests)
+  * [Selenium](#selenium)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
 - - -
@@ -68,7 +73,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 ## Modül ve Framework
 
 ### BeautifulSoup
-* [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari)
+* [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari) (Sinan Erdinç)
 
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
@@ -105,5 +110,8 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 
 ### Requests
 * [Requests Modülü Kullanımı](https://www.youtube.com/watch?v=3yLrXiZEsBg) (Sinan Erdinç)
+
+### Selenium
+* [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
 
 
