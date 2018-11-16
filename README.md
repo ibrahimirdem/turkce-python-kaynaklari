@@ -22,7 +22,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
   
 - - -
 
-### Eğitim Seti (Yazılı)
+## Eğitim Seti (Yazılı)
 * :star: [İstihza Python 3 için Türkçe Kaynak](https://belgeler.yazbel.com/python-istihza/) (Fırat özgül)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
 * [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html) (Prof. Dr. Bedri Doğan Emir)
@@ -115,3 +115,6 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
 
 
+## Faydalı Yazılar
+* [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
+* [Threading mi, yoksa multiprocessing mi kullanmalıyım](http://ysar.net/python/threading-vs-multiprocessing.html) (Yaşar Arabacı)
