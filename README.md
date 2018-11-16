@@ -56,3 +56,5 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 
 ### Kitaplar
 * [Her Yönüyle Python](https://www.kitapyurdu.com/kitap/her-yonuyle-python-ozel-basim/312293.html&manufacturer_id=21036) (Fırat Özgül)
+* [Yeni Başlayanlar İçin Python](https://www.idefix.com/Kitap/Yeni-Baslayanlar-Icin-Python/Egitim-Basvuru/Bilgisayar/urunno=0000000694609?gclid=CjwKCAiA8rnfBRB3EiwAhrhBGvtC3-OQEYO058lov4qtFRvJ5hyM1XbF80JosZXy4SBKxn1nGtQKoBoC33EQAvD_BwE) (Ahmet Alpat)
+* [Python](https://www.dr.com.tr/Kitap/Python/Egitim-Basvuru/Bilgisayar/urunno=0000000397294) (Mustafa Başer)
