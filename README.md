@@ -1,5 +1,5 @@
 Bu sayfada Python programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. Python hakkında aklınıza takılan sorular varsa [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/) Facebook grubuna katılabilirsiniz.
-Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehberindeki adımları izleyerek ekleme yapabilirsiniz.
+Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehberi](https://github.com/ibrahimirdem/turkce-python-kaynaklari/blob/master/katkida-bulunma-rehberi.md)ndeki adımları izleyerek ekleme yapabilirsiniz.
 ###### :star: :Önerilen içerik
 
 ## İçerikler
