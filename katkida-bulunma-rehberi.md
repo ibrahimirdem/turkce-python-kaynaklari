@@ -16,9 +16,10 @@
 ### Alt Konu Başlığı
 
 * [Link'in görüntüleneceği şekil](https://www.icerige.ait/yol/) (Açıklamalar)
+```
 
 Girilecek içeriğin formatı yukarıdakine benzer şeklinde olmalıdır.
-Açıklamalarda once yazar/sahip adı -varsa- yazılmalıdır.
+Açıklamalarda önce yazar/sahip adı yazılmalıdır.
 Eğer içerigin birden fazla yazarı/sahibi var ise ',' ile ayrılmalıdır. 
 
-**Modül ve Framework** başlığı altına eklenecek linkin alt başlığı yoksa, Alfabetik sırayı dikkate alarak alt başlığı oluşturup linki ekleyin.
+**Modül ve Framework** başlığı altına eklenecek linkin alt başlığı yoksa, Alfabetik sırayı dikkate alarak alt başlığı oluşturup linki eklemelisiniz.
