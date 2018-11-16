@@ -8,6 +8,8 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 * **[Siteler](#siteler)**
 * **[Kitaplar](#kitaplar)**  
 
+- - -
+
 ### Eğitim Seti (Yazılı)
 * [İstihza Python 3 için Türkçe Kaynak](https://belgeler.yazbel.com/python-istihza/) (Fırat özgül)
 
