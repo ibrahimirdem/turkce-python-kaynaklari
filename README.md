@@ -32,9 +32,17 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız Katkıda Bulunma Rehbe
 
 
 ### Bloglar
-* [Yaşar Arabacı](http://ysar.net) 
-* [Sıddık Açıl](https://medium.com/@sddkal) 
-* [Adnan Kaya](https://adnankayace.blogspot.com) 
+* [ysar.net](http://ysar.net) (Yaşar Arabacı)
+* [sinanerdinc.com](https://www.sinanerdinc.com/) (Sinan Erdinç)
+* [medium.com/@sddkal](https://medium.com/@sddkal) (Sıddık Açıl)
+* [gurayyildirim.com.tr](https://www.gurayyildirim.com.tr) (Güray Yıldırım)
+* [adnankayace.blogspot.com](https://adnankayace.blogspot.com) (Adnan Kaya)
+* [python.gurmezin.com](http://python.gurmezin.com) (Ahmet Alpat)
+* [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com/) (Murat Koptur)
+* [safkaninsan.blogspot.com](http://safkaninsan.blogspot.com/) (Umut Çağdaş Coşkun)
+* [aligoren.com](https://aligoren.com/) (Ali Gören)
+* [medium.com/@ibrahimirdem](https://medium.com/@ibrahimirdem) (İbrahim İrdem)
+* [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
 
 
 ### Siteler
