@@ -153,3 +153,4 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 ## Faydalı Yazılar
 * [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
 * [Threading mi, yoksa multiprocessing mi kullanmalıyım](http://ysar.net/python/threading-vs-multiprocessing.html) (Yaşar Arabacı)
+* [Python ile Veri Bilimine Dalış](Python ile Veri Bilimine Dalış) (Deniz Kılınç)
