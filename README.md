@@ -136,6 +136,9 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [PyAutoGui - Python ile Klavye ve Mouse Kontrolü](https://medium.com/@ibrahimirdem/python-ile-klavye-ve-fare-kontrol%C3%BC-pyautogui-6da4eb31b269) (İbrahim İrdem)
 * [Python PyAutoGUI Kullanımı](https://www.sinanerdinc.com/python-pyautogui-modulu-kullanimi) (Sinan Erdinç)
 
+### Pygame
+* [Pygame notları](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
+
 ### PyQt
 * [Python PyQt5 Programlama](https://www.youtube.com/playlist?list=PLK6Whnd55IH5rbIrl61H2l-560LddyHO5) (Mert Mekatronik)
 * [PyQt ve PySide Belgelendirme](https://blog.manap.se/pyqt/) (İlker Manap)
@@ -144,6 +147,9 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 
 ### PyTesseract
 * [Tesseract ile Yazı Karakteri Tanıma](https://medium.com/@ibrahimirdem/tesseract-ile-yaz%C4%B1-karakteri-tan%C4%B1ma-python-8ca5e746951) (İbrahim İrdem)
+
+### Pyttsx
+* [Pyttsx notları](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
 ### Requests
 * [Requests Modülü Kullanımı](https://www.youtube.com/watch?v=3yLrXiZEsBg) (Sinan Erdinç)
@@ -154,11 +160,6 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
 
-### Pygame
-* [Pygame notları](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
-
-### Pyttsx
-* [Pyttsx notları](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
 ## Faydalı Yazılar
 * [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
