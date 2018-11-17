@@ -18,6 +18,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
   * [OpenCv](#opencv)
   * [Os](#os)
   * [Pandas](#pandas)
+  * [Plotly](#plotly)
   * [PyAutoGUI](#pyautogui)
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
@@ -122,6 +123,9 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 
 ### Pandas
 * [Pandas'a Hızlı Başlangıç](https://veribilimcisi.com/2017/07/14/pandasa-hizli-baslangic/) (Veri Bilimcisi)
+
+### Plotly
+* [Plotly Dersleri-1](https://medium.com/deep-learning-turkiye/plotly-dersleri-1-edec7a1b953e) (Hakkı Kaan Şimşek)
 
 ### PyAutoGUI
 * [PyAutoGui - Python ile Klavye ve Mouse Kontrolü](https://medium.com/@ibrahimirdem/python-ile-klavye-ve-fare-kontrol%C3%BC-pyautogui-6da4eb31b269) (İbrahim İrdem)
