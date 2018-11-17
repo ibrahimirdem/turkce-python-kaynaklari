@@ -13,6 +13,10 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
   * [Django](#django)
   * [DryScrape](#dryscrape)
   * [Flask](#flask)
+  * [Matplotlib](#matplotlib)
+  * [Numpy](#numpy)
+  * [OpenCv](#opencv)
+  * [Os](#os)
   * [PyAutoGUI](#pyautogui)
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
@@ -55,6 +59,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [aligoren.com](https://aligoren.com/) (Ali Gören)
 * [medium.com/@ibrahimirdem](https://medium.com/@ibrahimirdem) (İbrahim İrdem)
 * [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
+* [derindelimavi.blogspot.com](http://derindelimavi.blogspot.com) (Birol Kuyumcu)
 
 
 ## Siteler
@@ -63,6 +68,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [pyankara.org](http://pyankara.org)
 * [pythondersleri.com](http://www.pythondersleri.com)
 * [pythontr.com](https://www.pythontr.com)
+* [pybilim.wordpress.com](https://pybilim.wordpress.com)
 
 
 ## Kitaplar
@@ -94,6 +100,22 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
 * [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmail Balat)
+
+### Matplotlib
+* [matplotlib 1: Temel grafikler](https://pybilim.wordpress.com/2014/01/01/matplotlib-1-temel-grafikler/) (Kaan Öztürk)
+
+### Numpy
+* [Numpy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) (Makine Öğrenmesi)
+
+### OpenCv
+* [OpenCV-Python Dersleri](http://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html) (Turan Erdem Şimşek)
+* [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
+* [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
+
+### Os
+* [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
+* [Python Os Modülü](https://www.python.tc/python-os-modulu/) (Ali Yaman)
+* [Python Os Modülü](https://medium.com/python/python-os-mod%C3%BCl%C3%BC-a699a681c734) (Sinan Erdinç)
 
 ### PyAutoGUI
 * [PyAutoGui - Python ile Klavye ve Mouse Kontrolü](https://medium.com/@ibrahimirdem/python-ile-klavye-ve-fare-kontrol%C3%BC-pyautogui-6da4eb31b269) (İbrahim İrdem)
