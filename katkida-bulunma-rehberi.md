@@ -22,4 +22,8 @@ Girilecek içeriğin formatı yukarıdakine benzer şeklinde olmalıdır.
 Açıklamalarda önce yazar/sahip adı yazılmalıdır.
 Eğer içerigin birden fazla yazarı/sahibi var ise ',' ile ayrılmalıdır. 
 
-**Modül ve Framework** başlığı altına eklenecek linkin alt başlığı yoksa, Alfabetik sırayı dikkate alarak alt başlığı oluşturup linki eklemelisiniz.
+**Modül ve Framework** başlığı altına eklenecek linkin alt başlığı yoksa, Alfabetik sırayı dikkate alarak alt başlığı oluşturup linki eklemelisiniz. Aynı zamanda yeni eklenen alt başlığı İçerikler kısmınada eklemelisiniz.
+
+**Bloglar** başlığı altına ekleme yaparken blog sahibinin blog yazılarının aktifliğine ve Python konusu ile ilgili 5 veya daha fazla postu olması dikkate alınmalıdır.
+
+**Siteler** başlığı altına ekleme yaparken sitenin içerik kısmı sadece Python ile ilgili olanlar eklenmelidir.
