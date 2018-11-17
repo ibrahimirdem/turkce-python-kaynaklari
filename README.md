@@ -25,6 +25,8 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
   * [Requests](#requests)
   * [Selenium](#selenium)
   * [TensorFlow](#tensorflow)
+  * [Pygame](#pygame)
+  * [Pyttsx](#pyttsx)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
 - - -
@@ -64,6 +66,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
 * [derindelimavi.blogspot.com](http://derindelimavi.blogspot.com) (Birol Kuyumcu)
 * [ibrahimdelibasoglu.blogspot.com](http://ibrahimdelibasoglu.blogspot.com/) (İbrahim Delibaşoğlu)
+* [coogger.com/python/@hakancelik](https://www.coogger.com/python/@hakancelik/) (Hakan Çelik)
 
 
 ## Siteler
@@ -110,11 +113,13 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 
 ### Numpy
 * [Numpy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) (Makine Öğrenmesi)
+* [Numpy notları](https://www.coogger.com/numpy/@hakancelik/) (Hakan Çelik)
 
 ### OpenCv
 * [OpenCV-Python Dersleri](http://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html) (Turan Erdem Şimşek)
 * [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
+* [Çeviri | Opencv-Python](https://www.coogger.com/python-opencv/@hakancelik/) (Hakan Çelik)
 
 ### Os
 * [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
@@ -149,6 +154,11 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
 
+### Pygame
+* [Pygame notları](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
+
+### Pyttsx
+* [Pyttsx notları](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
 ## Faydalı Yazılar
 * [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
