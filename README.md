@@ -17,6 +17,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
   * [Numpy](#numpy)
   * [OpenCv](#opencv)
   * [Os](#os)
+  * [Pandas](#pandas)
   * [PyAutoGUI](#pyautogui)
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
@@ -61,6 +62,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [medium.com/@ibrahimirdem](https://medium.com/@ibrahimirdem) (İbrahim İrdem)
 * [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
 * [derindelimavi.blogspot.com](http://derindelimavi.blogspot.com) (Birol Kuyumcu)
+* [ibrahimdelibasoglu.blogspot.com](http://ibrahimdelibasoglu.blogspot.com/) (İbrahim Delibaşoğlu)
 
 
 ## Siteler
@@ -118,6 +120,9 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [Python Os Modülü](https://www.python.tc/python-os-modulu/) (Ali Yaman)
 * [Python Os Modülü](https://medium.com/python/python-os-mod%C3%BCl%C3%BC-a699a681c734) (Sinan Erdinç)
 
+### Pandas
+* [Pandas'a Hızlı Başlangıç](https://veribilimcisi.com/2017/07/14/pandasa-hizli-baslangic/) (Veri Bilimcisi)
+
 ### PyAutoGUI
 * [PyAutoGui - Python ile Klavye ve Mouse Kontrolü](https://medium.com/@ibrahimirdem/python-ile-klavye-ve-fare-kontrol%C3%BC-pyautogui-6da4eb31b269) (İbrahim İrdem)
 * [Python PyAutoGUI Kullanımı](https://www.sinanerdinc.com/python-pyautogui-modulu-kullanimi) (Sinan Erdinç)
@@ -138,7 +143,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
 
 ### Tensorflow
-* [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimi)
+* [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
 
 
 ## Faydalı Yazılar
