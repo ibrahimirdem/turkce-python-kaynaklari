@@ -22,6 +22,7 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
   * [PyTesseract](#pytesseract)
   * [Requests](#requests)
   * [Selenium](#selenium)
+  * [TensorFlow](#tensorflow)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
 - - -
@@ -135,6 +136,9 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
+
+### Tensorflow
+* [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimi)
 
 
 ## Faydalı Yazılar
