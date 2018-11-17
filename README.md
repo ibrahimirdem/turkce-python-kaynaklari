@@ -20,13 +20,13 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
   * [Pandas](#pandas)
   * [Plotly](#plotly)
   * [PyAutoGUI](#pyautogui)
+  * [Pygame](#pygame)
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
+  * [Pyttsx](#pyttsx)
   * [Requests](#requests)
   * [Selenium](#selenium)
   * [TensorFlow](#tensorflow)
-  * [Pygame](#pygame)
-  * [Pyttsx](#pyttsx)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
 - - -
