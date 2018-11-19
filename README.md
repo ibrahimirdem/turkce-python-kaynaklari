@@ -68,6 +68,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [ibrahimdelibasoglu.blogspot.com](http://ibrahimdelibasoglu.blogspot.com/) (İbrahim Delibaşoğlu)
 * [coogger.com/python/@hakancelik](https://www.coogger.com/python/@hakancelik/) (Hakan Çelik)
 * [cahitisleyen.wordpress.com](https://cahitisleyen.wordpress.com/) (Cahit İşleyen)
+* [metehan.us](https://metehan.us/) (Metehan Özbek)
 
 
 ## Siteler
