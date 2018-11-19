@@ -165,3 +165,4 @@ Eğer sizde yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehb
 * [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
 * [Threading mi, yoksa multiprocessing mi kullanmalıyım](http://ysar.net/python/threading-vs-multiprocessing.html) (Yaşar Arabacı)
 * [Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dal%C4%B1%C5%9F-3f069260ebda) (Deniz Kılınç)
+* [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o) (Barış Aslan)
