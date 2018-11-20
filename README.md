@@ -13,6 +13,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Django](#django)
   * [DryScrape](#dryscrape)
   * [Flask](#flask)
+  * [Kivy](#kivy)
   * [Matplotlib](#matplotlib)
   * [Numpy](#numpy)
   * [OpenCv](#opencv)
@@ -110,6 +111,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
 * [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmail Balat)
+
+### Kivy
+* [Python ve Kivy ile Uygulama Geliştirme Dersleri](https://www.youtube.com/playlist?list=PLLUDEIGKBK82HlK0nTCTU6OTqhOVaOEYB) (Teknoloji Pengueni)
 
 ### Matplotlib
 * [matplotlib 1: Temel grafikler](https://pybilim.wordpress.com/2014/01/01/matplotlib-1-temel-grafikler/) (Kaan Öztürk)
