@@ -27,6 +27,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Pyttsx](#pyttsx)
   * [Requests](#requests)
   * [Selenium](#selenium)
+  * [Socket](#socket)
   * [TensorFlow](#tensorflow)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
@@ -164,6 +165,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
+
+### Socket
+* [Python Socket Programlama](https://www.youtube.com/playlist?list=PLcb5ECgpt3ML326GZxs1RQCcnK_PkOtwP)
 
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
