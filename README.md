@@ -137,6 +137,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Pandas
 * [Pandas'a Hızlı Başlangıç](https://veribilimcisi.com/2017/07/14/pandasa-hizli-baslangic/) (Veri Bilimcisi)
+* [Veri Bilimi Pandas](http://www.veridefteri.com/category/pandas/) (Birol Yüceoğlu)
 
 ### Plotly
 * [Plotly Dersleri-1](https://medium.com/deep-learning-turkiye/plotly-dersleri-1-edec7a1b953e) (Hakkı Kaan Şimşek)
