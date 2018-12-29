@@ -181,3 +181,4 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o) (Barış Aslan)
 * [Python'un Sihirli Metodları](http://blog.boramalper.org/ceviriler/pythonun-sihirli-metodlari) (Bora M. Alper)
 * [Django ve Socket.io ile Mesajlaşma Uygulaması](https://github.com/ozanteoman/django-socket-io-messaging?fbclid=IwAR11rJy5kumBSIBCN6Qrrqhp_XGsaa30DSXto9rlU0sFQQeYa8r9vT0xT-Q) (Ozan Teoman Dayanan)
+* [Python’da Fonksiyonel Programlamaya Giriş:1 Nedir, Yenir mi?](https://www.python.tc/python-fonksiyonel-programlama-1/) (Erdin Eray)
