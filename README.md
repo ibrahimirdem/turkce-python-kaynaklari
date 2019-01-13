@@ -69,7 +69,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
 * [derindelimavi.blogspot.com](http://derindelimavi.blogspot.com) (Birol Kuyumcu)
 * [ibrahimdelibasoglu.blogspot.com](http://ibrahimdelibasoglu.blogspot.com/) (İbrahim Delibaşoğlu)
-* [coogger.com/python/@hakancelik](https://www.coogger.com/python/@hakancelik/) (Hakan Çelik)
+* [coogger.com/@hakancelik](https://www.coogger.com/@hakancelik/) (Hakan Çelik)
 * [cahitisleyen.wordpress.com](https://cahitisleyen.wordpress.com/) (Cahit İşleyen)
 * [metehan.us](https://metehan.us/) (Metehan Özbek)
 
@@ -103,6 +103,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django](http://www.pythondersleri.com/p/django-egitim-serisi.html) (Python Dersleri)
 * [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
 * [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
+* [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
 
 ### DryScrape
 * [Python DryScrape Modülü ve Javascript](https://www.sinanerdinc.com/python-dryscrape-modulu-ve-javascript) (Sinan Erdinç)
@@ -121,13 +122,13 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Numpy
 * [Numpy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) (Makine Öğrenmesi)
-* [Numpy notları](https://www.coogger.com/numpy/@hakancelik/) (Hakan Çelik)
+* [Numpy Tutorial Listem](https://www.coogger.com/numpy/@hakancelik/) (Hakan Çelik)
 
 ### OpenCv
 * [OpenCV-Python Dersleri](http://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html) (Turan Erdem Şimşek)
 * [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
-* [Çeviri | Opencv-Python](https://www.coogger.com/python-opencv/@hakancelik/) (Hakan Çelik)
+* [Python-Opencv Çeviri listem](https://www.coogger.com/python-opencv/@hakancelik/) (Hakan Çelik)
 * [OpenCV ile Dünyayı Yeniden Keşfetmek](http://python.gurmezin.com/opencv-ile-dunyayi-yeniden-kesfetmek/?fbclid=IwAR2MB4TNlQpqXVtgsjSM_o8jqm54c1obXIE29a2oxmNwFmMbgpYJtGtoqQc) (Ahmet Aksoy)
 
 ### Os
@@ -147,7 +148,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python PyAutoGUI Kullanımı](https://www.sinanerdinc.com/python-pyautogui-modulu-kullanimi) (Sinan Erdinç)
 
 ### Pygame
-* [Pygame notları](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
+* [Pygame Tutorial Listem](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
 
 ### PyQt
 * [Python PyQt5 Programlama](https://www.youtube.com/playlist?list=PLK6Whnd55IH5rbIrl61H2l-560LddyHO5) (Mert Mekatronik)
@@ -159,7 +160,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Tesseract ile Yazı Karakteri Tanıma](https://medium.com/@ibrahimirdem/tesseract-ile-yaz%C4%B1-karakteri-tan%C4%B1ma-python-8ca5e746951) (İbrahim İrdem)
 
 ### Pyttsx
-* [Pyttsx notları](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
+* [Pyttsx Tutorial Listem](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
 ### Requests
 * [Requests Modülü Kullanımı](https://www.youtube.com/watch?v=3yLrXiZEsBg) (Sinan Erdinç)
