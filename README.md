@@ -92,6 +92,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### BeautifulSoup
 * [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari) (Sinan Erdinç)
+* [Python BeautifulSoup -Mert Mekatronik](https://www.youtube.com/playlist?list=PLK6Whnd55IH4hGwCfU-gchSNftP3yNi8Z) (Mert Sis)
 
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
@@ -126,6 +127,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### OpenCv
 * [OpenCV-Python Dersleri](http://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html) (Turan Erdem Şimşek)
+* [Python Görüntü İşleme - OpenCV](https://www.youtube.com/playlist?list=PLK6Whnd55IH69pMFZb1pZB3OX1KIKwd19) (Mert Sis)
 * [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
 * [Python-Opencv Çeviri listem](https://www.coogger.com/python-opencv/@hakancelik/) (Hakan Çelik)
