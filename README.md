@@ -161,6 +161,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### PyTesseract
 * [Tesseract ile Yazı Karakteri Tanıma](https://medium.com/@ibrahimirdem/tesseract-ile-yaz%C4%B1-karakteri-tan%C4%B1ma-python-8ca5e746951) (İbrahim İrdem)
 
+### PyTorch
+* [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) (Özgün Genç)
+
 ### Pyttsx
 * [Pyttsx Tutorial Listem](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
@@ -175,6 +178,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
+* [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
 
 
 ## Faydalı Yazılar
