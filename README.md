@@ -72,7 +72,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [coogger.com/@hakancelik](https://www.coogger.com/@hakancelik/) (Hakan Çelik)
 * [cahitisleyen.wordpress.com](https://cahitisleyen.wordpress.com/) (Cahit İşleyen)
 * [metehan.us](https://metehan.us/) (Metehan Özbek)
-
+* [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
