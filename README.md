@@ -29,6 +29,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Selenium](#selenium)
   * [Socket](#socket)
   * [TensorFlow](#tensorflow)
+  * [Virtualenv](#virtualenv)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
 - - -
@@ -175,6 +176,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
+* [Python Selenium Modülü Kullanımı Ders 2](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-2) (Sinan Erdinç)
 
 ### Socket
 * [Python Socket Programlama](https://www.youtube.com/playlist?list=PLcb5ECgpt3ML326GZxs1RQCcnK_PkOtwP) (Ahmet Aksoy)
@@ -183,6 +185,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
 * [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
 
+### Virtualenv
+* [Python Virtualenv Kullanımı](https://www.sinanerdinc.com/python-virtualenv-kullanimi) (Sinan Erdinç)
 
 ## Faydalı Yazılar
 * [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
