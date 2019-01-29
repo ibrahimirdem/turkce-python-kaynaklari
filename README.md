@@ -25,6 +25,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
   * [Pyttsx](#pyttsx)
+  * [Random](#random)
+  * [Re](#re)
   * [Requests](#requests)
   * [Selenium](#selenium)
   * [Socket](#socket)
@@ -139,7 +141,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Os
 * [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
 * [Python Os Modülü](https://www.python.tc/python-os-modulu/) (Ali Yaman)
-* [Python Os Modülü](https://medium.com/python/python-os-mod%C3%BCl%C3%BC-a699a681c734) (Sinan Erdinç)
+* [Python Os Modülü](https://www.sinanerdinc.com/python-os-modulu) (Sinan Erdinç)
 
 ### Pandas
 * [Pandas'a Hızlı Başlangıç](https://veribilimcisi.com/2017/07/14/pandasa-hizli-baslangic/) (Veri Bilimcisi)
@@ -170,8 +172,14 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Pyttsx
 * [Pyttsx Tutorial Listem](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
+### Random
+* [Random Modülü Kullanımı](https://www.sinanerdinc.com/python-random-modulu) (Sinan Erdinç)
+
+### Re
+* [Re Modülü Kullanımı](https://www.sinanerdinc.com/python-re-modulu) (Sinan Erdinç)
+
 ### Requests
-* [Requests Modülü Kullanımı](https://www.youtube.com/watch?v=3yLrXiZEsBg) (Sinan Erdinç)
+* [Requests Modülü Kullanımı](https://www.sinanerdinc.com/python-requests-modulu) (Sinan Erdinç)
 
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
