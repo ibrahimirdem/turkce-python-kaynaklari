@@ -72,7 +72,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [safkaninsan.blogspot.com](http://safkaninsan.blogspot.com/) (Umut Çağdaş Coşkun)
 * [aligoren.com](https://aligoren.com/) (Ali Gören)
 * [medium.com/@ibrahimirdem](https://medium.com/@ibrahimirdem) (İbrahim İrdem)
-* [kerteriz.net](https://kerteriz.net/etiket/python/) (İsmet Balat)
 * [derindelimavi.blogspot.com](http://derindelimavi.blogspot.com) (Birol Kuyumcu)
 * [ibrahimdelibasoglu.blogspot.com](http://ibrahimdelibasoglu.blogspot.com/) (İbrahim Delibaşoğlu)
 * [coogger.com/@hakancelik](https://www.coogger.com/@hakancelik/) (Hakan Çelik)
@@ -82,8 +81,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
-* [pythonkutuphane.org](http://pythonkutuphane.org/)
-* [pyankara.org](http://pyankara.org)
 * [pythondersleri.com](http://www.pythondersleri.com)
 * [pythontr.com](https://www.pythontr.com)
 * [pybilim.wordpress.com](https://pybilim.wordpress.com)
