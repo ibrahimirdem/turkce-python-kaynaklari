@@ -60,7 +60,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python 2.7 Dersleri](https://www.youtube.com/user/gryyldrm/videos) (Güray Yıldırım)
 * [Yazılım Bilimi Python 2.7 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHexfRjgCeV3yck3pw0M2gow) (Mustafa Murat Coşkun)
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
-* :heavy_dollar_sign: [Python 3.5 ile Sıfırdan İleri Seviyeye Programlama](https://www.udemy.com/python-3-egitimi/) (Mustafa Murat Coşkun)
+* :heavy_dollar_sign: [Python 3.5 ile Sıfırdan İleri Seviyeye Programlama](https://www.udemy.com/python-3-egitimi/) (Enes Tuzlu)
 
 
 ## Bloglar
@@ -110,6 +110,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
 * [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
 * [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
+* :heavy_dollar_sign: [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/django-kursu/) (Enes Tuzlu)
+* :heavy_dollar_sign: [Django A-Z™ | Sıfırdan Web Programlama](https://www.udemy.com/django-egitimi/) (Ozan Teoman DAYANAN)
 
 ### DryScrape
 * [Python DryScrape Modülü ve Javascript](https://www.sinanerdinc.com/python-dryscrape-modulu-ve-javascript) (Sinan Erdinç)
