@@ -137,7 +137,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Görüntü İşleme - OpenCV](https://www.youtube.com/playlist?list=PLK6Whnd55IH69pMFZb1pZB3OX1KIKwd19) (Mert Sis)
 * [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
-* [Python-Opencv Çeviri listem](https://www.coogger.com/python-opencv/@hakancelik/) (Hakan Çelik)
+* [Python-Opencv Çeviri listem](https://www.coogger.com/opencv-python/@hakancelik/) (Hakan Çelik)
 * [OpenCV ile Dünyayı Yeniden Keşfetmek](http://python.gurmezin.com/opencv-ile-dunyayi-yeniden-kesfetmek/?fbclid=IwAR2MB4TNlQpqXVtgsjSM_o8jqm54c1obXIE29a2oxmNwFmMbgpYJtGtoqQc) (Ahmet Aksoy)
 
 ### Os
