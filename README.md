@@ -1,6 +1,6 @@
 Bu sayfada Python programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. Python hakkında aklınıza takılan sorular varsa [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/) Facebook grubuna katılabilirsiniz.
 Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehberi](https://github.com/ibrahimirdem/turkce-python-kaynaklari/blob/master/katkida-bulunma-rehberi.md)ndeki adımları izleyerek ekleme yapabilirsiniz.
-###### :star: :Önerilen içerik
+###### :star::Önerilen içerik,  :heavy_dollar_sign::Ücretli İçerik
 
 ## İçerikler
 * **[Eğitim Seti (Yazılı)](#eğitim-seti-yazılı)**  
@@ -46,6 +46,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ## Eğitim Seti (Video)
 * :star: [Yazılım Bilimi Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) (Mustafa Murat Coşkun)
+* :star::heavy_dollar_sign: [(42 Saat) Python : Sıfırdan İleri Seviye Programlama (2019)](https://www.udemy.com/sifirdan-ileri-seviyeye-python/) (Mustafa Murat Coşkun)
 * :star: [Sıfırdan Python Programlama Dersleri](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) (Mert Mekatronik)
 * [Bilgisayar Bilimi Python Programlama](https://www.youtube.com/playlist?list=PLv5gvG08kLQekD20hqte2ptaV-O_QKybV) (Sinan Urun)
 * [Python 3 Dersleri 2018](https://www.youtube.com/playlist?list=PLmvShhBbNYrTkzcj-darhclgS15EeVQXX) (Yazılım Videoları)
@@ -59,6 +60,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python 2.7 Dersleri](https://www.youtube.com/user/gryyldrm/videos) (Güray Yıldırım)
 * [Yazılım Bilimi Python 2.7 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHexfRjgCeV3yck3pw0M2gow) (Mustafa Murat Coşkun)
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
+* :heavy_dollar_sign: [Python 3.5 ile Sıfırdan İleri Seviyeye Programlama](https://www.udemy.com/python-3-egitimi/) (Enes Tuzlu)
 
 
 ## Bloglar
@@ -108,6 +110,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
 * [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
 * [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
+* :heavy_dollar_sign: [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/django-kursu/) (Enes Tuzlu)
+* :heavy_dollar_sign: [Django A-Z™ | Sıfırdan Web Programlama](https://www.udemy.com/django-egitimi/) (Ozan Teoman DAYANAN)
 
 ### DryScrape
 * [Python DryScrape Modülü ve Javascript](https://www.sinanerdinc.com/python-dryscrape-modulu-ve-javascript) (Sinan Erdinç)
@@ -133,7 +137,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Görüntü İşleme - OpenCV](https://www.youtube.com/playlist?list=PLK6Whnd55IH69pMFZb1pZB3OX1KIKwd19) (Mert Sis)
 * [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
-* [Python-Opencv Çeviri listem](https://www.coogger.com/python-opencv/@hakancelik/) (Hakan Çelik)
+* [Python-Opencv Çeviri listem](https://www.coogger.com/opencv-python/@hakancelik/) (Hakan Çelik)
 * [OpenCV ile Dünyayı Yeniden Keşfetmek](http://python.gurmezin.com/opencv-ile-dunyayi-yeniden-kesfetmek/?fbclid=IwAR2MB4TNlQpqXVtgsjSM_o8jqm54c1obXIE29a2oxmNwFmMbgpYJtGtoqQc) (Ahmet Aksoy)
 
 ### Os
