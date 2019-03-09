@@ -61,6 +61,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Yazılım Bilimi Python 2.7 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHexfRjgCeV3yck3pw0M2gow) (Mustafa Murat Coşkun)
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
 * :heavy_dollar_sign: [Python 3.5 ile Sıfırdan İleri Seviyeye Programlama](https://www.udemy.com/python-3-egitimi/) (Enes Tuzlu)
+* [Python3 - Yeni Başlayanlar İçin](https://www.youtube.com/playlist?list=PLyf02mrSC8_8jpPrg9Wm4S0ukuh9YdxSw&fbclid=IwAR1eedwzjXP11GI79IDFewV1BG9Cq_q4AzetExu9_OYNFbsjrcWLXskaZJs) (Dilek Çelik)
 
 
 ## Bloglar
