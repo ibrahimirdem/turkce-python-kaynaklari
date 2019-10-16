@@ -10,6 +10,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * **[Kitaplar](#kitaplar)**
 * **[Modül ve Framework](#modül-ve-framework)**
   * [BeautifulSoup](#beautifulsoup)
+  * [Click](#click)
   * [Django](#django)
   * [DryScrape](#dryscrape)
   * [Flask](#flask)
@@ -101,6 +102,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari) (Sinan Erdinç)
 * [Python BeautifulSoup -Mert Mekatronik](https://www.youtube.com/playlist?list=PLK6Whnd55IH4hGwCfU-gchSNftP3yNi8Z) (Mert Sis)
 
+### Click
+* [Click modülü kullanımı](https://www.sinanerdinc.com/python-click-modulu) (Sinan Erdinç)
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
 * :star: [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (Django Girls)
