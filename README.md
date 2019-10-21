@@ -107,6 +107,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
 * :star: [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (Django Girls)
+* [Django Eğitim Seti](https://www.youtube.com/playlist?list=PLADEzZRbuZOYMU5ooc6uRLiJYTzfdP_1U) (Yunus Emre Çevik)
 * [Django İçin Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) (Muslu Yüksektepe)
 * [Django Dersleri](https://www.youtube.com/playlist?list=PLCqztCiWHkqH0x6c-1FlnCo0jQ7G8fBp1) (Ozan Teoman Dayanan)
 * [1 Videoda Django](https://www.youtube.com/watch?v=QAVoXJtQ9QM) (Mustafa Murat Coşkun)
