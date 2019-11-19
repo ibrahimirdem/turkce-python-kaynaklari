@@ -126,7 +126,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Flask Mini Serisi](https://www.youtube.com/playlist?list=PLIHume2cwmHfDUQ2t6f-Q7VCBvNSEAMAS) (Mustafa Murat Coşkun)
 * [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
-* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmail Balat)
+* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmet Balat)
 
 ### Kivy
 * [Python ve Kivy ile Uygulama Geliştirme Dersleri](https://www.youtube.com/playlist?list=PLLUDEIGKBK82HlK0nTCTU6OTqhOVaOEYB) (Teknoloji Pengueni)
