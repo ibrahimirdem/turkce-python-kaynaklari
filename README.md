@@ -66,7 +66,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 
 ## Bloglar
-* :star: [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
 * [ysar.net](http://ysar.net) (Yaşar Arabacı)
 * [sinanerdinc.com](https://www.sinanerdinc.com/) (Sinan Erdinç)
 * [medium.com/@sddkal](https://medium.com/@sddkal) (Sıddık Açıl)
@@ -84,6 +83,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [metehan.us](https://metehan.us/) (Metehan Özbek)
 * [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
 * [btaskaya.github.io](https://btaskaya.github.io/) (Batuhan Osman Taşkaya)
+* [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
