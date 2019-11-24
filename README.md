@@ -83,6 +83,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [metehan.us](https://metehan.us/) (Metehan Özbek)
 * [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
 * [btaskaya.github.io](https://btaskaya.github.io/) (Batuhan Osman Taşkaya)
+* [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
