@@ -62,6 +62,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Yazılım Bilimi Python 2.7 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHexfRjgCeV3yck3pw0M2gow) (Mustafa Murat Coşkun)
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
 * :heavy_dollar_sign: [Python 3.5 ile Sıfırdan İleri Seviyeye Programlama](https://www.udemy.com/python-3-egitimi/) (Enes Tuzlu)
+* [Python3 - Yeni Başlayanlar İçin](https://www.youtube.com/playlist?list=PLyf02mrSC8_8jpPrg9Wm4S0ukuh9YdxSw&fbclid=IwAR1eedwzjXP11GI79IDFewV1BG9Cq_q4AzetExu9_OYNFbsjrcWLXskaZJs) (Dilek Çelik)
 
 
 ## Bloglar
@@ -81,6 +82,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [cahitisleyen.wordpress.com](https://cahitisleyen.wordpress.com/) (Cahit İşleyen)
 * [metehan.us](https://metehan.us/) (Metehan Özbek)
 * [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
+* [btaskaya.github.io](https://btaskaya.github.io/) (Batuhan Osman Taşkaya)
+* [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
@@ -105,6 +108,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
 * :star: [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (Django Girls)
+* [Django Eğitim Seti](https://www.youtube.com/playlist?list=PLADEzZRbuZOYMU5ooc6uRLiJYTzfdP_1U) (Yunus Emre Çevik)
 * [Django İçin Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) (Muslu Yüksektepe)
 * [Django Dersleri](https://www.youtube.com/playlist?list=PLCqztCiWHkqH0x6c-1FlnCo0jQ7G8fBp1) (Ozan Teoman Dayanan)
 * [1 Videoda Django](https://www.youtube.com/watch?v=QAVoXJtQ9QM) (Mustafa Murat Coşkun)
@@ -123,7 +127,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Flask Mini Serisi](https://www.youtube.com/playlist?list=PLIHume2cwmHfDUQ2t6f-Q7VCBvNSEAMAS) (Mustafa Murat Coşkun)
 * [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
-* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmail Balat)
+* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmet Balat)
+* [Flask ile web uygulaması](https://www.youtube.com/playlist?list=PLYrbwT6Hz6K63OKXVoARRpbcAKGmZap8S) (Boran Sahindal)
 
 ### Kivy
 * [Python ve Kivy ile Uygulama Geliştirme Dersleri](https://www.youtube.com/playlist?list=PLLUDEIGKBK82HlK0nTCTU6OTqhOVaOEYB) (Teknoloji Pengueni)
@@ -151,6 +156,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Pandas
 * [Pandas'a Hızlı Başlangıç](https://veribilimcisi.com/2017/07/14/pandasa-hizli-baslangic/) (Veri Bilimcisi)
 * [Veri Bilimi Pandas](http://www.veridefteri.com/category/pandas/) (Birol Yüceoğlu)
+* [Pandas ile Python'da Veri Analizi ](https://www.youtube.com/playlist?list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20) (Tirendaz Akademi)
 
 ### Plotly
 * [Plotly Dersleri-1](https://medium.com/deep-learning-turkiye/plotly-dersleri-1-edec7a1b953e) (Hakkı Kaan Şimşek)
@@ -189,6 +195,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
 * [Python Selenium Modülü Kullanımı Ders 2](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-2) (Sinan Erdinç)
+* [Python Programlama Selenium - 1 - Giriş](https://www.youtube.com/watch?v=XGYK7nlPpkk) (Mert Sis)
 
 ### Socket
 * [Python Socket Programlama](https://www.youtube.com/playlist?list=PLcb5ECgpt3ML326GZxs1RQCcnK_PkOtwP) (Ahmet Aksoy)
