@@ -13,6 +13,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Click](#click)
   * [Django](#django)
   * [DryScrape](#dryscrape)
+  * [Enum](#enum)
   * [Flask](#flask)
   * [Kivy](#kivy)
   * [Matplotlib](#matplotlib)
@@ -122,6 +123,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### DryScrape
 * [Python DryScrape Modülü ve Javascript](https://www.sinanerdinc.com/python-dryscrape-modulu-ve-javascript) (Sinan Erdinç)
+
+### Enum
+* [Python Enum Kütüphanesi Kullanımı](https://www.sinanerdinc.com/python-enum-kullanimi) (Sinan Erdinç)
 
 ### Flask
 * [Flask Mini Serisi](https://www.youtube.com/playlist?list=PLIHume2cwmHfDUQ2t6f-Q7VCBvNSEAMAS) (Mustafa Murat Coşkun)
