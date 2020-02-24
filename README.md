@@ -145,6 +145,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Numpy
 * [Numpy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) (Makine Öğrenmesi)
 * [Numpy Tutorial Listem](https://www.coogger.com/numpy/@hakancelik/) (Hakan Çelik)
+* [A’dan Z’ye Numpy Tutoriali (Başlangıç ve Orta Seviye)](https://medium.com/deep-learning-turkiye/t%C3%BCrkiyenin-en-kapsaml%C4%B1-numpy-tutoriali-b22e800418ed) (Batuhan Bayraktar)
 
 ### OpenCv
 * [OpenCV-Python Dersleri](http://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html) (Turan Erdem Şimşek)
