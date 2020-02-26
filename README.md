@@ -44,6 +44,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html) (Prof. Dr. Bedri Doğan Emir)
 * [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
 * [Python Eğitimi](https://www.mobilhanem.com/python-egitimi/) (Cahit İşleyen)
+* [Python dili dersleri](http://pythonhacisi.com/python-dersleri)-[SAMİ DÖNMEZ](https://github.com/Sami-donmez) 
 
 
 ## Eğitim Seti (Video)
