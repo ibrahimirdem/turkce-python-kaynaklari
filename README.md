@@ -30,6 +30,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Random](#random)
   * [Re](#re)
   * [Requests](#requests)
+  * [Scrapy](#scrapy)
   * [Selenium](#selenium)
   * [Socket](#socket)
   * [TensorFlow](#tensorflow)
@@ -202,6 +203,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Requests
 * [Requests Modülü Kullanımı](https://www.sinanerdinc.com/python-requests-modulu) (Sinan Erdinç)
+
+### Scrapy
+* [Python Scrapy ile Web Crawling](https://adnankayace.blogspot.com/p/scrapy-notlarm.html) (Adnan Kaya)
 
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
