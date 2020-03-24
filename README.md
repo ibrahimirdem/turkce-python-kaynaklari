@@ -34,6 +34,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Selenium](#selenium)
   * [Socket](#socket)
   * [TensorFlow](#tensorflow)
+  * [Tweepy](#tweepy)
   * [Virtualenv](#virtualenv)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
@@ -218,6 +219,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
 * [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
+
+### Tweepy
+* [Tweepy ile Twitter API erişimi – 1](http://www.veridefteri.com/2020/01/12/tweepy-ile-twitter-api-erisimi-1/) (Tevfik Uyar )
 
 ### Virtualenv
 * [Python Virtualenv Kullanımı](https://www.sinanerdinc.com/python-virtualenv-kullanimi) (Sinan Erdinç)
