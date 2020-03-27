@@ -9,6 +9,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * **[Siteler](#siteler)**
 * **[Kitaplar](#kitaplar)**
 * **[Modül ve Framework](#modül-ve-framework)**
+  * [ABC](#abc)
   * [BeautifulSoup](#beautifulsoup)
   * [Click](#click)
   * [Django](#django)
@@ -103,6 +104,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python](https://www.dr.com.tr/Kitap/Python/Egitim-Basvuru/Bilgisayar/urunno=0000000397294) (Mustafa Başer)
 
 ## Modül ve Framework
+
+### ABC
+* [ABC Modülü Kullanımı](https://www.sinanerdinc.com/python-abc-modulu-kullanimi) (Sinan Erdinç)
 
 ### BeautifulSoup
 * [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari) (Sinan Erdinç)
