@@ -30,9 +30,11 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Random](#random)
   * [Re](#re)
   * [Requests](#requests)
+  * [Scrapy](#scrapy)
   * [Selenium](#selenium)
   * [Socket](#socket)
   * [TensorFlow](#tensorflow)
+  * [Tweepy](#tweepy)
   * [Virtualenv](#virtualenv)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
@@ -64,6 +66,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
 * :heavy_dollar_sign: [Python 3.5 ile Sıfırdan İleri Seviyeye Programlama](https://www.udemy.com/python-3-egitimi/) (Enes Tuzlu)
 * [Python3 - Yeni Başlayanlar İçin](https://www.youtube.com/playlist?list=PLyf02mrSC8_8jpPrg9Wm4S0ukuh9YdxSw&fbclid=IwAR1eedwzjXP11GI79IDFewV1BG9Cq_q4AzetExu9_OYNFbsjrcWLXskaZJs) (Dilek Çelik)
+* [Python 3.8 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
+* [Python](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) (Code Cube)
 
 
 ## Bloglar
@@ -120,6 +124,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
 * :heavy_dollar_sign: [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/django-kursu/) (Enes Tuzlu)
 * :heavy_dollar_sign: [Django A-Z™ | Sıfırdan Web Programlama](https://www.udemy.com/django-egitimi/) (Ozan Teoman DAYANAN)
+* [Django Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4BNiFtL1T2AwenhoQ9UQxbf) (Ferhat Mousavi)
+* [Python Django Dersleri ](https://www.youtube.com/playlist?list=PLfMRLSpipmfvrYo-WZEVn4bUSVia_XD2P) (Tirendaz Akademi)
 
 ### DryScrape
 * [Python DryScrape Modülü ve Javascript](https://www.sinanerdinc.com/python-dryscrape-modulu-ve-javascript) (Sinan Erdinç)
@@ -143,6 +149,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Numpy
 * [Numpy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) (Makine Öğrenmesi)
 * [Numpy Tutorial Listem](https://www.coogger.com/numpy/@hakancelik/) (Hakan Çelik)
+* [A’dan Z’ye Numpy Tutoriali (Başlangıç ve Orta Seviye)](https://medium.com/deep-learning-turkiye/t%C3%BCrkiyenin-en-kapsaml%C4%B1-numpy-tutoriali-b22e800418ed) (Batuhan Bayraktar)
+* [Yeni Başlayanlar İçin NumPy](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-WIFsfLJkDASz2YgGJg5Nt) (Arin Yazılım)
+* [Numpy Kütüphanesi - Python Dersleri](https://www.youtube.com/playlist?list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP) (Hüseyin Demir)
 
 ### OpenCv
 * [OpenCV-Python Dersleri](http://www.turanerdemsimsek.com/2017/08/opencv-python-dersleri.html) (Turan Erdem Şimşek)
@@ -196,6 +205,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Requests
 * [Requests Modülü Kullanımı](https://www.sinanerdinc.com/python-requests-modulu) (Sinan Erdinç)
 
+### Scrapy
+* [Python Scrapy ile Web Crawling](https://adnankayace.blogspot.com/p/scrapy-notlarm.html) (Adnan Kaya)
+
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
 * [Python Selenium Modülü Kullanımı Ders 2](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-2) (Sinan Erdinç)
@@ -207,6 +219,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
 * [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
+
+### Tweepy
+* [Tweepy ile Twitter API erişimi – 1](http://www.veridefteri.com/2020/01/12/tweepy-ile-twitter-api-erisimi-1/) (Tevfik Uyar )
 
 ### Virtualenv
 * [Python Virtualenv Kullanımı](https://www.sinanerdinc.com/python-virtualenv-kullanimi) (Sinan Erdinç)
