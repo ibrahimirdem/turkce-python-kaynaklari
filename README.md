@@ -90,7 +90,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
 * [btaskaya.github.io](https://btaskaya.github.io/) (Batuhan Osman Taşkaya)
 * [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
-* [medium/@blalyasar](https://medium.com/@blalyasar/) (Bilal Yaşar)
+* [medium/@blalyasar](https://medium.com/@blalyasar/) ( Bilal Yaşar )
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
