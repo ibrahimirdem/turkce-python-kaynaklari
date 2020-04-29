@@ -69,6 +69,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python3 - Yeni Başlayanlar İçin](https://www.youtube.com/playlist?list=PLyf02mrSC8_8jpPrg9Wm4S0ukuh9YdxSw&fbclid=IwAR1eedwzjXP11GI79IDFewV1BG9Cq_q4AzetExu9_OYNFbsjrcWLXskaZJs) (Dilek Çelik)
 * [Python 3.8 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
 * [Python](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) (Code Cube)
+* [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about)(BTK Akademi)
 
 
 ## Bloglar
