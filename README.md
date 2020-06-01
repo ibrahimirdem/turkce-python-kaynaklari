@@ -1,6 +1,8 @@
-Bu sayfada Python programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. Python hakkında aklınıza takılan sorular varsa [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/) Facebook grubuna katılabilirsiniz.
+Bu sayfada Python programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. Python hakkında aklınıza takılan sorular varsa [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/) Facebook grubuna veya [Yazbel Forum](https://forum.yazbel.com/)'a katılıp sorabilirsiniz. 
 Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehberi](https://github.com/ibrahimirdem/turkce-python-kaynaklari/blob/master/katkida-bulunma-rehberi.md)ndeki adımları izleyerek ekleme yapabilirsiniz.
+> Bilgi paylaştıkça çoğalır.
 ###### :star::Önerilen içerik,  :heavy_dollar_sign::Ücretli İçerik
+
 
 ## İçerikler
 * **[Eğitim Seti (Yazılı)](#eğitim-seti-yazılı)**  
@@ -42,7 +44,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 - - -
 
 ## Eğitim Seti (Yazılı)
-* :star: [İstihza Python 3 için Türkçe Kaynak](https://belgeler.yazbel.com/python-istihza/) (Fırat özgül)
+* :star: [İstihza Python 3 için Türkçe Kaynak](https://python-istihza.yazbel.com/) (Fırat özgül)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
 * [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html) (Prof. Dr. Bedri Doğan Emir)
 * [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
@@ -69,6 +71,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python3 - Yeni Başlayanlar İçin](https://www.youtube.com/playlist?list=PLyf02mrSC8_8jpPrg9Wm4S0ukuh9YdxSw&fbclid=IwAR1eedwzjXP11GI79IDFewV1BG9Cq_q4AzetExu9_OYNFbsjrcWLXskaZJs) (Dilek Çelik)
 * [Python 3.8 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
 * [Python](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) (Code Cube)
+* [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about)(BTK Akademi)
 
 
 ## Bloglar
@@ -90,6 +93,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
 * [btaskaya.github.io](https://btaskaya.github.io/) (Batuhan Osman Taşkaya)
 * [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
+* [medium/@blalyasar](https://medium.com/@blalyasar/) ( Bilal Yaşar )
 
 ## Siteler
 * :star: [python.tc](https://www.python.tc)
@@ -238,3 +242,4 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python'un Sihirli Metodları](http://blog.boramalper.org/ceviriler/pythonun-sihirli-metodlari) (Bora M. Alper)
 * [Django ve Socket.io ile Mesajlaşma Uygulaması](https://github.com/ozanteoman/django-socket-io-messaging?fbclid=IwAR11rJy5kumBSIBCN6Qrrqhp_XGsaa30DSXto9rlU0sFQQeYa8r9vT0xT-Q) (Ozan Teoman Dayanan)
 * [Python’da Fonksiyonel Programlamaya Giriş:1 Nedir, Yenir mi?](https://www.python.tc/python-fonksiyonel-programlama-1/) (Erdin Eray)
+* [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
