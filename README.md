@@ -237,6 +237,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Virtualenv Kullanımı](https://www.sinanerdinc.com/python-virtualenv-kullanimi) (Sinan Erdinç)
 
 ## Faydalı Yazılar
+* [Map, Zip, Reduce ve Filter Fonksiyonları Kullanımı](https://www.sinanerdinc.com/python-map-zip-reduce-filter-kullanimi) (Sinan Erdinç)
 * [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
 * [Threading mi, yoksa multiprocessing mi kullanmalıyım](http://ysar.net/python/threading-vs-multiprocessing.html) (Yaşar Arabacı)
 * [Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dal%C4%B1%C5%9F-3f069260ebda) (Deniz Kılınç)
