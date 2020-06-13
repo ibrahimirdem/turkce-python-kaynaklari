@@ -97,7 +97,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [jn7.net](https://jn7.net/category/programlama/python/) (Halil İbrahim K.)
 
 ## Siteler
-* :star: [python.tc](https://www.python.tc)
 * [pythondersleri.com](http://www.pythondersleri.com)
 * [pythontr.com](https://www.pythontr.com)
 * [pybilim.wordpress.com](https://pybilim.wordpress.com)
