@@ -18,6 +18,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [DryScrape](#dryscrape)
   * [Enum](#enum)
   * [Flask](#flask)
+  * [Itertools](#itertools)
   * [Kivy](#kivy)
   * [Matplotlib](#matplotlib)
   * [Numpy](#numpy)
@@ -147,6 +148,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
 * [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmet Balat)
 * [Flask ile web uygulaması](https://www.youtube.com/playlist?list=PLYrbwT6Hz6K63OKXVoARRpbcAKGmZap8S) (Boran Sahindal)
+
+### Itertools
+* [Python Itertools Modülü](https://www.sinanerdinc.com/python-itertools-modulu) (Sinan Erdinç)
 
 ### Kivy
 * [Python ve Kivy ile Uygulama Geliştirme Dersleri](https://www.youtube.com/playlist?list=PLLUDEIGKBK82HlK0nTCTU6OTqhOVaOEYB) (Teknoloji Pengueni)
