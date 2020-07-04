@@ -249,3 +249,4 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django ve Socket.io ile Mesajlaşma Uygulaması](https://github.com/ozanteoman/django-socket-io-messaging?fbclid=IwAR11rJy5kumBSIBCN6Qrrqhp_XGsaa30DSXto9rlU0sFQQeYa8r9vT0xT-Q) (Ozan Teoman Dayanan)
 * [Python’da Fonksiyonel Programlamaya Giriş:1 Nedir, Yenir mi?](https://www.python.tc/python-fonksiyonel-programlama-1/) (Erdin Eray)
 * [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
+* [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
