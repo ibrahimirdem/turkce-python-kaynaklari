@@ -245,7 +245,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Threading mi, yoksa multiprocessing mi kullanmalıyım](http://ysar.net/python/threading-vs-multiprocessing.html) (Yaşar Arabacı)
 * [Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dal%C4%B1%C5%9F-3f069260ebda) (Deniz Kılınç)
 * [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o) (Barış Aslan)
-* [Python'un Sihirli Metodları](http://blog.boramalper.org/ceviriler/pythonun-sihirli-metodlari) (Bora M. Alper)
+* [Python'un Sihirli Metodları](https://blog.boramalper.org/python-un-sihirli-metodlari/) (Bora M. Alper)
 * [Django ve Socket.io ile Mesajlaşma Uygulaması](https://github.com/ozanteoman/django-socket-io-messaging?fbclid=IwAR11rJy5kumBSIBCN6Qrrqhp_XGsaa30DSXto9rlU0sFQQeYa8r9vT0xT-Q) (Ozan Teoman Dayanan)
 * [Python’da Fonksiyonel Programlamaya Giriş:1 Nedir, Yenir mi?](https://www.python.tc/python-fonksiyonel-programlama-1/) (Erdin Eray)
 * [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
