@@ -59,8 +59,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Bilgisayar Bilimi Python Programlama](https://www.youtube.com/playlist?list=PLv5gvG08kLQekD20hqte2ptaV-O_QKybV) (Sinan Urun)
 * [Python 3 Dersleri 2018](https://www.youtube.com/playlist?list=PLmvShhBbNYrTkzcj-darhclgS15EeVQXX) (Yazılım Videoları)
 * [Hızlı Python Öğreniyorum](https://www.udemy.com/hzl-python-ogreniyorum/) (Yavuz Selim Kart)
-* [Veri bilimi ve Makine Öğrenmesi için PYTHON
-](https://www.udemy.com/veri-bilimi-ve-makine-ogrenmesi-icin-python/) (Mehmet Tek)
+* :heavy_dollar_sign: [Veri bilimi ve Makine Öğrenmesi için PYTHON](https://www.udemy.com/veri-bilimi-ve-makine-ogrenmesi-icin-python/) (Mehmet Tek)
 * [Python Veri Yapıları ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOoFYmIIiwFjgXDCD9uiD_i) (Doç. Dr. Şadi Evren Şeker)
 * [90 Günde Python Grusu Olun](https://www.youtube.com/playlist?list=PLQgPjfd_0IIOIzqkheiR_-3GsgK73m3Bo) (PythonGru)
 * [1 Videoda Python Öğrenin](https://www.youtube.com/watch?v=tvvEqvyh_Vw) (Musta Murat Coşkun)
@@ -72,7 +71,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python3 - Yeni Başlayanlar İçin](https://www.youtube.com/playlist?list=PLyf02mrSC8_8jpPrg9Wm4S0ukuh9YdxSw&fbclid=IwAR1eedwzjXP11GI79IDFewV1BG9Cq_q4AzetExu9_OYNFbsjrcWLXskaZJs) (Dilek Çelik)
 * [Python 3.8 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
 * [Python](https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS) (Code Cube)
-* [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about)(BTK Akademi)
+* [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about) (BTK Akademi)
+* [Veri Bilimi İçin Python](https://gelecegiyazanlar.turkcell.com.tr/konu/python) (Mustafa Vahit Keskin)
 
 
 ## Bloglar
