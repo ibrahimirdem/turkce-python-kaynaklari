@@ -63,7 +63,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Veri Yapıları ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOoFYmIIiwFjgXDCD9uiD_i) (Doç. Dr. Şadi Evren Şeker)
 * [90 Günde Python Grusu Olun](https://www.youtube.com/playlist?list=PLQgPjfd_0IIOIzqkheiR_-3GsgK73m3Bo) (PythonGru)
 * [1 Videoda Python Öğrenin](https://www.youtube.com/watch?v=tvvEqvyh_Vw) (Musta Murat Coşkun)
-* [Python Dersleri](https://www.youtube.com/playlist?list=PLPa55dyKM2F14v3vXVXu7cYVcrBiRXcpo) (Volkan Taşcı)
+* :heavy_dollar_sign: [Python 3: A'dan Z'ye](https://www.udemy.com/course/python3-ile-a-dan-z-ye-programlama/) (Volkan Taşcı)
 * [Python 2.7 Dersleri](https://www.youtube.com/user/gryyldrm/videos) (Güray Yıldırım)
 * [Yazılım Bilimi Python 2.7 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHexfRjgCeV3yck3pw0M2gow) (Mustafa Murat Coşkun)
 * [Python 3 Dersleri](https://www.youtube.com/playlist?list=PLP6Cnd5VHAi5M0NvHDfsQaokaw_4kPAEu) (Python Öğren)
