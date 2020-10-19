@@ -199,6 +199,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [PyQt ve PySide Belgelendirme](https://blog.manap.se/pyqt/) (İlker Manap)
 * [Python PyQt ile GUI İşlemleri](https://www.youtube.com/playlist?list=PLcb5ECgpt3MIAZn1eKNXxPrgBWlzwVVII) (Python Ankara)
 * [PyQt](http://www.pythondersleri.com/p/pyqt.html) (Python Dersleri)
+* [Python ile Görsel Programlama](https://www.youtube.com/playlist?list=PLyaHWDDfgBPMQUBW95__P4KT3JcVclx4n) (Sinan Uğuz)
 
 ### PyTesseract
 * [Tesseract ile Yazı Karakteri Tanıma](https://medium.com/@ibrahimirdem/tesseract-ile-yaz%C4%B1-karakteri-tan%C4%B1ma-python-8ca5e746951) (İbrahim İrdem)
