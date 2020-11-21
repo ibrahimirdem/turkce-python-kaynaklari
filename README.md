@@ -172,7 +172,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
 * [Python-Opencv Çeviri listem](https://www.coogger.com/opencv-python/@hakancelik/) (Hakan Çelik)
 * [OpenCV ile Dünyayı Yeniden Keşfetmek](http://python.gurmezin.com/opencv-ile-dunyayi-yeniden-kesfetmek/?fbclid=IwAR2MB4TNlQpqXVtgsjSM_o8jqm54c1obXIE29a2oxmNwFmMbgpYJtGtoqQc) (Ahmet Aksoy)
-*[jn7.net - OpenCV Uygulama Örnekleri](https://jn7.net/category/programlama/opencv/) (Halil İbrahim K.)
+* [jn7.net - OpenCV Uygulama Örnekleri](https://jn7.net/category/programlama/opencv/) (Halil İbrahim K.)
 
 ### Os
 * [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
