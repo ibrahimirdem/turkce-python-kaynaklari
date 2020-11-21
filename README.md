@@ -27,6 +27,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Pandas](#pandas)
   * [Plotly](#plotly)
   * [PyAutoGUI](#pyautogui)
+  * [PyCaret](#pycaret)
   * [Pygame](#pygame)
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
@@ -190,6 +191,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### PyAutoGUI
 * [PyAutoGui - Python ile Klavye ve Mouse Kontrolü](https://medium.com/@ibrahimirdem/python-ile-klavye-ve-fare-kontrol%C3%BC-pyautogui-6da4eb31b269) (İbrahim İrdem)
 * [Python PyAutoGUI Kullanımı](https://www.sinanerdinc.com/python-pyautogui-modulu-kullanimi) (Sinan Erdinç)
+
+### PyCaret
+* [PyCaret Kütüphanesi Kurulum ve Kullanımı](https://www.youtube.com/watch?v=U97Bx-QRdH8&feature=emb_title) (Python Earth)
 
 ### Pygame
 * [Pygame Tutorial Listem](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
