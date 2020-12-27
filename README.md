@@ -14,6 +14,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [ABC](#abc)
   * [BeautifulSoup](#beautifulsoup)
   * [Click](#click)
+  * [Discord.py](#discordpy)
   * [Django](#django)
   * [DryScrape](#dryscrape)
   * [Enum](#enum)
@@ -102,6 +103,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [pythondersleri.com](http://www.pythondersleri.com)
 * [pythontr.com](https://www.pythontr.com)
 * [pybilim.wordpress.com](https://pybilim.wordpress.com)
+* [Kerteriz](https://kerteriz.net/etiket/python/)
 
 
 ## Kitaplar
@@ -120,6 +122,10 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Click
 * [Click modülü kullanımı](https://www.sinanerdinc.com/python-click-modulu) (Sinan Erdinç)
+
+### Discord.py
+* [Python ile basit Discord botu oluşturma](https://medium.com/@alpererdogan8/python-ile-basit-discord-botu-kodlama-169a7f3b41ec) (Alper Erdoğan)
+
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
 * :star: [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (Django Girls)
@@ -229,10 +235,11 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Selenium
 * [Python Selenium Modülü Kullanımı Ders 1](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-1) (Sinan Erdinç)
 * [Python Selenium Modülü Kullanımı Ders 2](https://www.sinanerdinc.com/python-selenium-modulu-kullanimi-2) (Sinan Erdinç)
-* [Python Programlama Selenium - 1 - Giriş](https://www.youtube.com/watch?v=XGYK7nlPpkk) (Mert Sis)
+* [25 Dakikada Selenium Kullanarak Otomatik Instagram Girişi](https://www.youtube.com/watch?v=A1nJ66Vmkaw) (Yazılım Bilimi)
 
 ### Socket
 * [Python Socket Programlama](https://www.youtube.com/playlist?list=PLcb5ECgpt3ML326GZxs1RQCcnK_PkOtwP) (Ahmet Aksoy)
+* [Python Socket Programlama Dersi](https://kerteriz.net/python-socket-programlama-nedir/) (İsmet Balat)
 
 ### Tensorflow
 * [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
@@ -255,3 +262,4 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python’da Fonksiyonel Programlamaya Giriş:1 Nedir, Yenir mi?](https://www.python.tc/python-fonksiyonel-programlama-1/) (Erdin Eray)
 * [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
 * [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
+* [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
