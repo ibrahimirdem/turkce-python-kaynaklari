@@ -151,7 +151,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Flask
 * [Flask Mini Serisi](https://www.youtube.com/playlist?list=PLIHume2cwmHfDUQ2t6f-Q7VCBvNSEAMAS) (Mustafa Murat Coşkun)
-* [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
+* [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (kayace)
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
 * [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmet Balat)
 * [Flask ile web uygulaması](https://www.youtube.com/playlist?list=PLYrbwT6Hz6K63OKXVoARRpbcAKGmZap8S) (Boran Sahindal)
@@ -247,6 +247,9 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Tweepy
 * [Tweepy ile Twitter API erişimi – 1](http://www.veridefteri.com/2020/01/12/tweepy-ile-twitter-api-erisimi-1/) (Tevfik Uyar )
+
+### Tkinter
+* [Tkinter & OpenCV Dersleri](https://www.youtube.com/playlist?list=PLJVAfYc7XqEKEodK9Cugnxma4lDCN33bv) (kayace)
 
 ### Virtualenv
 * [Python Virtualenv Kullanımı](https://www.sinanerdinc.com/python-virtualenv-kullanimi) (Sinan Erdinç)
