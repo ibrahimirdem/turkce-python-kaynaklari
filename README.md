@@ -137,6 +137,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django](http://www.pythondersleri.com/p/django-egitim-serisi.html) (Python Dersleri)
 * [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
 * [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
+* [Django’da ORM’a bir bakış](https://suayip.medium.com/djangoda-orm-a-bir-bak%C4%B1%C5%9F-b01f3bf3840f) (Şuayip Üzülmez)
 * [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
 * :heavy_dollar_sign: [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/django-kursu/) (Enes Tuzlu)
 * :heavy_dollar_sign: [Django A-Z™ | Sıfırdan Web Programlama](https://www.udemy.com/django-egitimi/) (Ozan Teoman DAYANAN)
