@@ -110,6 +110,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Her Yönüyle Python](https://www.kitapyurdu.com/kitap/her-yonuyle-python-ozel-basim/312293.html&manufacturer_id=21036) (Fırat Özgül)
 * [Yeni Başlayanlar İçin Python](https://www.idefix.com/Kitap/Yeni-Baslayanlar-Icin-Python/Egitim-Basvuru/Bilgisayar/urunno=0000000694609?gclid=CjwKCAiA8rnfBRB3EiwAhrhBGvtC3-OQEYO058lov4qtFRvJ5hyM1XbF80JosZXy4SBKxn1nGtQKoBoC33EQAvD_BwE) (Ahmet Alpat)
 * [Python](https://www.dr.com.tr/Kitap/Python/Egitim-Basvuru/Bilgisayar/urunno=0000000397294) (Mustafa Başer)
+* [Python Eğitim Kitabı](https://www.kitapyurdu.com/kitap/python-egitim-kitabi/513260.html) (Volkan TAŞCI)
 
 ## Modül ve Framework
 
@@ -125,6 +126,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Discord.py
 * [Python ile basit Discord botu oluşturma](https://medium.com/@alpererdogan8/python-ile-basit-discord-botu-kodlama-169a7f3b41ec) (Alper Erdoğan)
+* [Python ile Discord Botu Yapım 1.Bölüm](https://www.youtube.com/watch?v=FRGq3kyYodQ&list=PLK6Whnd55IH4iEIggloN74MaVbMLCW26p) (Mert Sis)
 
 ### Django
 * :star: [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh) (Barış Aslan)
@@ -137,6 +139,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django](http://www.pythondersleri.com/p/django-egitim-serisi.html) (Python Dersleri)
 * [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
 * [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
+* [Django’da ORM’a bir bakış](https://suayip.medium.com/djangoda-orm-a-bir-bak%C4%B1%C5%9F-b01f3bf3840f) (Şuayip Üzülmez)
 * [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
 * :heavy_dollar_sign: [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/django-kursu/) (Enes Tuzlu)
 * :heavy_dollar_sign: [Django A-Z™ | Sıfırdan Web Programlama](https://www.udemy.com/django-egitimi/) (Ozan Teoman DAYANAN)
@@ -151,7 +154,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Flask
 * [Flask Mini Serisi](https://www.youtube.com/playlist?list=PLIHume2cwmHfDUQ2t6f-Q7VCBvNSEAMAS) (Mustafa Murat Coşkun)
-* [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (İnfo Ce)
+* [Python Flask ile Uygulama Geliştirme](https://www.youtube.com/playlist?list=PLJVAfYc7XqEIqEjC70lVlXhR5Kl_mvFac) (kayace)
 * [Flask Mega Tutorial Notlarım](https://adnankayace.blogspot.com/p/flask.html) (Adnan Kaya)
 * [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri/) (İsmet Balat)
 * [Flask ile web uygulaması](https://www.youtube.com/playlist?list=PLYrbwT6Hz6K63OKXVoARRpbcAKGmZap8S) (Boran Sahindal)
@@ -205,6 +208,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Pygame Tutorial Listem](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
 
 ### PyQt
+* [PyQt5 Belgelendirmesi](https://mthnzbk.gitbook.io/pyqt5-belgelendirmesi) (Metehan Özbek)
 * [Python PyQt5 Programlama](https://www.youtube.com/playlist?list=PLK6Whnd55IH5rbIrl61H2l-560LddyHO5) (Mert Mekatronik)
 * [PyQt ve PySide Belgelendirme](https://blog.manap.se/pyqt/) (İlker Manap)
 * [Python PyQt ile GUI İşlemleri](https://www.youtube.com/playlist?list=PLcb5ECgpt3MIAZn1eKNXxPrgBWlzwVVII) (Python Ankara)
@@ -248,6 +252,10 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### Tweepy
 * [Tweepy ile Twitter API erişimi – 1](http://www.veridefteri.com/2020/01/12/tweepy-ile-twitter-api-erisimi-1/) (Tevfik Uyar )
 
+### Tkinter
+* [Tkinter & OpenCV Dersleri](https://www.youtube.com/playlist?list=PLJVAfYc7XqEKEodK9Cugnxma4lDCN33bv) (kayace)
+* [Tkinter Eğitimi 1.Bölüm](https://mertmekatronik.com/tkinter-tutorial-1-creating-window) (Mücahit Gündüz)
+
 ### Virtualenv
 * [Python Virtualenv Kullanımı](https://www.sinanerdinc.com/python-virtualenv-kullanimi) (Sinan Erdinç)
 
@@ -263,3 +271,4 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
 * [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
 * [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
+* [Tkinter mı PyQt5 mi? 1.Bölüm](https://mertmekatronik.com/tkinter-or-pyqt5-bolum-1) (Mücahit Gündüz)
