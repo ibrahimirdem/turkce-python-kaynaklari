@@ -76,6 +76,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about) (BTK Akademi)
 * [Veri Bilimi İçin Python](https://gelecegiyazanlar.turkcell.com.tr/konu/python) (Mustafa Vahit Keskin)
 * [Python](https://www.youtube.com/playlist?list=PLK8LlaNiWQOusZmEzLunxfgti9-ciRuXe) (Anlaşılır Ekonomi)
+* [Python İle Veri Çekme](https://www.sinanerdinc.com/python-ile-veri-cekme) (Sinan Erdinç)
 
 
 ## Bloglar
