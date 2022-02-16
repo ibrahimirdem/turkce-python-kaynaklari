@@ -99,6 +99,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
 * [medium/@blalyasar](https://medium.com/@blalyasar/) ( Bilal Yaşar )
 * [jn7.net](https://jn7.net/category/programlama/python/) (Halil İbrahim K.)
+* [suayip.medium.com](https://suayip.medium.com) (Şuayip Üzülmez)
 
 ## Siteler
 * [pythondersleri.com](http://www.pythondersleri.com)
@@ -273,3 +274,4 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
 * [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
 * [Tkinter mı PyQt5 mi? 1.Bölüm](https://mertmekatronik.com/tkinter-or-pyqt5-bolum-1) (Mücahit Gündüz)
+* [Python ile metaprogramlamaya bir bakış](https://suayip.medium.com/python-ile-metaprogramlamaya-bir-bak%C4%B1%C5%9F-d7771d468558) (Şuayip Üzülmez)
