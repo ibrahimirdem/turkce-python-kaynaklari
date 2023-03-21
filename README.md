@@ -29,18 +29,17 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
   * [Plotly](#plotly)
   * [PyAutoGUI](#pyautogui)
   * [PyCaret](#pycaret)
-  * [Pygame](#pygame)
   * [PyQt](#pyqt)
   * [PyTesseract](#pytesseract)
-  * [Pyttsx](#pyttsx)
+  * [PyTorch](#pytorch)
   * [Random](#random)
   * [Re](#re)
   * [Requests](#requests)
   * [Scrapy](#scrapy)
   * [Selenium](#selenium)
   * [Socket](#socket)
-  * [TensorFlow](#tensorflow)
   * [Tweepy](#tweepy)
+  * [Tkinter](#tkinter)
   * [Virtualenv](#virtualenv)
 * **[Faydalı Yazılar](#faydalı-yazılar)**
   
@@ -49,7 +48,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ## Eğitim Seti (Yazılı)
 * :star: [İstihza Python 3 için Türkçe Kaynak](https://python-istihza.yazbel.com/) (Fırat özgül)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
-* [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html) (Prof. Dr. Bedri Doğan Emir)
 * [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
 * [Python Eğitimi](https://www.mobilhanem.com/python-egitimi/) (Cahit İşleyen)
 
@@ -80,38 +78,31 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 
 ## Bloglar
-* [ysar.net](http://ysar.net) (Yaşar Arabacı)
 * [sinanerdinc.com](https://www.sinanerdinc.com/) (Sinan Erdinç)
 * [medium.com/@sddkal](https://medium.com/@sddkal) (Sıddık Açıl)
 * [gurayyildirim.com.tr](https://www.gurayyildirim.com.tr) (Güray Yıldırım)
 * [adnankayace.blogspot.com](https://adnankayace.blogspot.com) (Adnan Kaya)
-* [python.gurmezin.com](http://python.gurmezin.com) (Ahmet Alpat)
 * [makineogrenimi.wordpress.com](https://makineogrenimi.wordpress.com/) (Murat Koptur)
 * [safkaninsan.blogspot.com](http://safkaninsan.blogspot.com/) (Umut Çağdaş Coşkun)
-* [aligoren.com](https://aligoren.com/) (Ali Gören)
+* [aligoren.com](https://aligoren.com/category/python/) (Ali Gören)
 * [medium.com/@ibrahimirdem](https://medium.com/@ibrahimirdem) (İbrahim İrdem)
 * [derindelimavi.blogspot.com](http://derindelimavi.blogspot.com) (Birol Kuyumcu)
 * [ibrahimdelibasoglu.blogspot.com](http://ibrahimdelibasoglu.blogspot.com/) (İbrahim Delibaşoğlu)
-* [coogger.com/@hakancelik](https://www.coogger.com/@hakancelik/) (Hakan Çelik)
 * [cahitisleyen.wordpress.com](https://cahitisleyen.wordpress.com/) (Cahit İşleyen)
-* [metehan.us](https://metehan.us/) (Metehan Özbek)
-* [erdoganb.com](http://erdoganb.com) (Erdoğan Bavaş)
-* [btaskaya.github.io](https://btaskaya.github.io/) (Batuhan Osman Taşkaya)
+* [erdoganb.com](http://erdoganb.com/category/python/) (Erdoğan Bavaş)
 * [python.yemreak.com](https://python.yemreak.com/) (Yunus Emre Ak)
 * [medium/@blalyasar](https://medium.com/@blalyasar/) ( Bilal Yaşar )
 * [jn7.net](https://jn7.net/category/programlama/python/) (Halil İbrahim K.)
 * [suayip.medium.com](https://suayip.medium.com) (Şuayip Üzülmez)
 
 ## Siteler
-* [pythondersleri.com](http://www.pythondersleri.com)
 * [pythontr.com](https://www.pythontr.com)
 * [pybilim.wordpress.com](https://pybilim.wordpress.com)
 * [Kerteriz](https://kerteriz.net/etiket/python/)
 
 
 ## Kitaplar
-* [Her Yönüyle Python](https://www.kitapyurdu.com/kitap/her-yonuyle-python-ozel-basim/312293.html&manufacturer_id=21036) (Fırat Özgül)
-* [Yeni Başlayanlar İçin Python](https://www.idefix.com/Kitap/Yeni-Baslayanlar-Icin-Python/Egitim-Basvuru/Bilgisayar/urunno=0000000694609?gclid=CjwKCAiA8rnfBRB3EiwAhrhBGvtC3-OQEYO058lov4qtFRvJ5hyM1XbF80JosZXy4SBKxn1nGtQKoBoC33EQAvD_BwE) (Ahmet Alpat)
+* [Yeni Başlayanlar İçin Python](https://www.idefix.com/Kitap/Yeni-Baslayanlar-Icin-Python/Egitim-Basvuru/Bilgisayar/urunno=0000000694609) (Ahmet Alpat)
 * [Python](https://www.dr.com.tr/Kitap/Python/Egitim-Basvuru/Bilgisayar/urunno=0000000397294) (Mustafa Başer)
 * [Python Eğitim Kitabı](https://www.kitapyurdu.com/kitap/python-egitim-kitabi/513260.html) (Volkan TAŞCI)
 
@@ -122,7 +113,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### BeautifulSoup
 * [BeautifulSoup Eğitim Videoları](https://www.sinanerdinc.com/python-beautifulsoup-egitim-videolari) (Sinan Erdinç)
-* [Python BeautifulSoup -Mert Mekatronik](https://www.youtube.com/playlist?list=PLK6Whnd55IH4hGwCfU-gchSNftP3yNi8Z) (Mert Sis)
 
 ### Click
 * [Click modülü kullanımı](https://www.sinanerdinc.com/python-click-modulu) (Sinan Erdinç)
@@ -139,11 +129,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Django Dersleri](https://www.youtube.com/playlist?list=PLCqztCiWHkqH0x6c-1FlnCo0jQ7G8fBp1) (Ozan Teoman Dayanan)
 * [1 Videoda Django](https://www.youtube.com/watch?v=QAVoXJtQ9QM) (Mustafa Murat Coşkun)
 * [Python Django Dersleri](https://www.youtube.com/playlist?list=PLkdAmtKHWw52tPm-pgEZ2hPjW0ZUaPrln) (Python Ankara)
-* [Django](http://www.pythondersleri.com/p/django-egitim-serisi.html) (Python Dersleri)
 * [Django](https://www.youtube.com/playlist?list=PLcb5ECgpt3MLLTlG0hZLRDzJBe4Nu3sQd) (Şadi Evren Şeker)
-* [Django Notlarım](https://gokmengorgen.net/django-notes/) (Gökmen Görgen)
 * [Django’da ORM’a bir bakış](https://suayip.medium.com/djangoda-orm-a-bir-bak%C4%B1%C5%9F-b01f3bf3840f) (Şuayip Üzülmez)
-* [Django Tutorial Listem](https://www.coogger.com/django/@hakancelik/) (Hakan Çelik)
 * :heavy_dollar_sign: [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/django-kursu/) (Enes Tuzlu)
 * :heavy_dollar_sign: [Django A-Z™ | Sıfırdan Web Programlama](https://www.udemy.com/django-egitimi/) (Ozan Teoman DAYANAN)
 * [Django Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4BNiFtL1T2AwenhoQ9UQxbf) (Ferhat Mousavi)
@@ -173,7 +160,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Numpy
 * [Numpy](https://www.youtube.com/playlist?list=PLRRY18KNZTgVBuQPSbjHWMEshKaXVsqKU) (Makine Öğrenmesi)
-* [Numpy Tutorial Listem](https://www.coogger.com/numpy/@hakancelik/) (Hakan Çelik)
 * [A’dan Z’ye Numpy Tutoriali (Başlangıç ve Orta Seviye)](https://medium.com/deep-learning-turkiye/t%C3%BCrkiyenin-en-kapsaml%C4%B1-numpy-tutoriali-b22e800418ed) (Batuhan Bayraktar)
 * [Yeni Başlayanlar İçin NumPy](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-WIFsfLJkDASz2YgGJg5Nt) (Arin Yazılım)
 * [Numpy Kütüphanesi - Python Dersleri](https://www.youtube.com/playlist?list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP) (Hüseyin Demir)
@@ -183,17 +169,13 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Görüntü İşleme - OpenCV](https://www.youtube.com/playlist?list=PLK6Whnd55IH69pMFZb1pZB3OX1KIKwd19) (Mert Sis)
 * [Python ve OpenCv ile Görüntü İşleme](https://www.youtube.com/playlist?list=PLIHume2cwmHdhjC-XXfjLOTDS55X6vuDU) (Davut Enes Polat)
 * [OpenCv Dersleri](http://mavienginberk.blogspot.com/search/label/opencv%20python) (Mühendishane-i Berr-i Hümâyûn)
-* [Python-Opencv Çeviri listem](https://www.coogger.com/opencv-python/@hakancelik/) (Hakan Çelik)
-* [OpenCV ile Dünyayı Yeniden Keşfetmek](http://python.gurmezin.com/opencv-ile-dunyayi-yeniden-kesfetmek/?fbclid=IwAR2MB4TNlQpqXVtgsjSM_o8jqm54c1obXIE29a2oxmNwFmMbgpYJtGtoqQc) (Ahmet Aksoy)
 * [jn7.net - OpenCV Uygulama Örnekleri](https://jn7.net/category/programlama/opencv/) (Halil İbrahim K.)
 
 ### Os
 * [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
-* [Python Os Modülü](https://www.python.tc/python-os-modulu/) (Ali Yaman)
 * [Python Os Modülü](https://www.sinanerdinc.com/python-os-modulu) (Sinan Erdinç)
 
 ### Pandas
-* [Pandas'a Hızlı Başlangıç](https://veribilimcisi.com/2017/07/14/pandasa-hizli-baslangic/) (Veri Bilimcisi)
 * [Veri Bilimi Pandas](http://www.veridefteri.com/category/pandas/) (Birol Yüceoğlu)
 * [Pandas ile Python'da Veri Analizi ](https://www.youtube.com/playlist?list=PLfMRLSpipmfsLoyO-deGWkJ0RAQf9gU20) (Tirendaz Akademi)
 
@@ -207,15 +189,11 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 ### PyCaret
 * [PyCaret Kütüphanesi Kurulum ve Kullanımı](https://www.youtube.com/watch?v=U97Bx-QRdH8&feature=emb_title) (Python Earth)
 
-### Pygame
-* [Pygame Tutorial Listem](https://www.coogger.com/pygame/@hakancelik/) (Hakan Çelik)
-
 ### PyQt
 * [PyQt5 Belgelendirmesi](https://mthnzbk.gitbook.io/pyqt5-belgelendirmesi) (Metehan Özbek)
 * [Python PyQt5 Programlama](https://www.youtube.com/playlist?list=PLK6Whnd55IH5rbIrl61H2l-560LddyHO5) (Mert Mekatronik)
 * [PyQt ve PySide Belgelendirme](https://blog.manap.se/pyqt/) (İlker Manap)
 * [Python PyQt ile GUI İşlemleri](https://www.youtube.com/playlist?list=PLcb5ECgpt3MIAZn1eKNXxPrgBWlzwVVII) (Python Ankara)
-* [PyQt](http://www.pythondersleri.com/p/pyqt.html) (Python Dersleri)
 * [Python ile Görsel Programlama](https://www.youtube.com/playlist?list=PLyaHWDDfgBPMQUBW95__P4KT3JcVclx4n) (Sinan Uğuz)
 
 ### PyTesseract
@@ -223,9 +201,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### PyTorch
 * [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) (Özgün Genç)
-
-### Pyttsx
-* [Pyttsx Tutorial Listem](https://www.coogger.com/pyttsx/@hakancelik/) (Hakan Çelik)
 
 ### Random
 * [Random Modülü Kullanımı](https://www.sinanerdinc.com/python-random-modulu) (Sinan Erdinç)
@@ -248,9 +223,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [Python Socket Programlama](https://www.youtube.com/playlist?list=PLcb5ECgpt3ML326GZxs1RQCcnK_PkOtwP) (Ahmet Aksoy)
 * [Python Socket Programlama Dersi](https://kerteriz.net/python-socket-programlama-nedir/) (İsmet Balat)
 
-### Tensorflow
-* [TensorFlow 101](https://veribilimcisi.com/tensorflow-101/) (Veri Bilimcisi)
-* [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
 
 ### Tweepy
 * [Tweepy ile Twitter API erişimi – 1](http://www.veridefteri.com/2020/01/12/tweepy-ile-twitter-api-erisimi-1/) (Tevfik Uyar )
@@ -264,15 +236,11 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ## Faydalı Yazılar
 * [Map, Zip, Reduce ve Filter Fonksiyonları Kullanımı](https://www.sinanerdinc.com/python-map-zip-reduce-filter-kullanimi) (Sinan Erdinç)
-* [Python Çalışma Rehber](http://ysar.net/python/python-calisma-rehberi.html) (Yaşar Arabacı)
-* [Threading mi, yoksa multiprocessing mi kullanmalıyım](http://ysar.net/python/threading-vs-multiprocessing.html) (Yaşar Arabacı)
 * [Python ile Veri Bilimine Dalış](https://medium.com/deep-learning-turkiye/python-ile-veri-bilimine-dal%C4%B1%C5%9F-3f069260ebda) (Deniz Kılınç)
 * [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o) (Barış Aslan)
-* [Python'un Sihirli Metodları](https://blog.boramalper.org/python-un-sihirli-metodlari/) (Bora M. Alper)
+* [Python'un Sihirli Metodları](https://www.boramalper.org/blog/python-un-sihirli-metodlari/) (Bora M. Alper)
 * [Django ve Socket.io ile Mesajlaşma Uygulaması](https://github.com/ozanteoman/django-socket-io-messaging?fbclid=IwAR11rJy5kumBSIBCN6Qrrqhp_XGsaa30DSXto9rlU0sFQQeYa8r9vT0xT-Q) (Ozan Teoman Dayanan)
-* [Python’da Fonksiyonel Programlamaya Giriş:1 Nedir, Yenir mi?](https://www.python.tc/python-fonksiyonel-programlama-1/) (Erdin Eray)
 * [Python Öğren 4 Saatte Python'a Başlangıç](https://github.com/peptr/python-ogren-4-saatte-python-baslangic) (Güray Yıldırım, Aylin Gümüş, Muhammed Taha Ayan)
-* [Python yield deyimi nedir? Ne işe yarar?](https://ysar.net/python/yield.html) (Yaşar Arabacı)
 * [PyInstaller ile .py Dosyalarını .exe'ye Çevirmek](https://makdos.blog/python/545/pyinstaller-ile-py-dosyalarini-exe-ye-cevirmek/) (Makdos Blog)
 * [Tkinter mı PyQt5 mi? 1.Bölüm](https://mertmekatronik.com/tkinter-or-pyqt5-bolum-1) (Mücahit Gündüz)
 * [Python ile metaprogramlamaya bir bakış](https://suayip.medium.com/python-ile-metaprogramlamaya-bir-bak%C4%B1%C5%9F-d7771d468558) (Şuayip Üzülmez)
