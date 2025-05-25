@@ -46,7 +46,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 - - -
 
 ## Eğitim Seti (Yazılı)
-* :star: [İstihza Python 3 için Türkçe Kaynak](https://python-istihza.yazbel.com/) (Fırat özgül)
+* :star: [YazBel Python 3 Belgeleri](https://python.yazbel.com/) (Fırat özgül)
 * [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
 * [Python Programlamaya Giriş](http://www.veridefteri.com/category/python-giris/) (Kaan Öztürk)
 * [Python Eğitimi](https://www.mobilhanem.com/python-egitimi/) (Cahit İşleyen)
@@ -172,7 +172,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [jn7.net - OpenCV Uygulama Örnekleri](https://jn7.net/category/programlama/opencv/) (Halil İbrahim K.)
 
 ### Os
-* [Os Modülü İstihza](https://belgeler.yazbel.com/python-istihza/standart_moduller/os.html) (Fırat Özgül)
+* [Os Modülü YazBel](https://python.yazbel.com/standart_moduller/os.html) (Fırat Özgül)
 * [Python Os Modülü](https://www.sinanerdinc.com/python-os-modulu) (Sinan Erdinç)
 
 ### Pandas
@@ -204,9 +204,11 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ### Random
 * [Random Modülü Kullanımı](https://www.sinanerdinc.com/python-random-modulu) (Sinan Erdinç)
+* [random modülü (YazBel)](https://python.yazbel.com/standart_moduller/random.html)
 
 ### Re
 * [Re Modülü Kullanımı](https://www.sinanerdinc.com/python-re-modulu) (Sinan Erdinç)
+* [Düzenli ifadeler (YazBel)](https://python.yazbel.com/standart_moduller/regex.html)
 
 ### Requests
 * [Requests Modülü Kullanımı](https://www.sinanerdinc.com/python-requests-modulu) (Sinan Erdinç)
